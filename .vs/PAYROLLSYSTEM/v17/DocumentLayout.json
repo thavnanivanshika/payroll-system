@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|c:\\users\\edp\\source\\repos\\payrollsystem\\payrollsystem\\learn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\learn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\learn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\learn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\final.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\final.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\final.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\final.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\trans.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\trans.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\trans.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\trans.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\company.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\company.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\company.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\company.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\salary edit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\salary edit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\salary edit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\salary edit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\parameter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\parameter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\parameter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\parameter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\show.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\show.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\show.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\show.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\sal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\sal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\sal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\sal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\add.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\add.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\add.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\add.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\payrollsystem\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D1A36496-71EB-4299-955A-CEC7D40DCBB0}|PAYROLLSYSTEM\\PAYROLLSYSTEM.vbproj|solutionrelative:payrollsystem\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LEARN.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\LEARN.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\LEARN.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\LEARN.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\LEARN.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA0wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:18:57.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LEARN.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\LEARN.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\LEARN.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\LEARN.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\LEARN.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:18:56.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "REPORT.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\REPORT.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\REPORT.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\REPORT.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\REPORT.vb",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAcwKAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:17:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "REPORT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\REPORT.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\REPORT.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\REPORT.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\REPORT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:17:53.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "COMPANY.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\COMPANY.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\COMPANY.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\COMPANY.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\COMPANY.vb",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwD0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:14:04.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "COMPANY.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\COMPANY.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\COMPANY.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\COMPANY.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\COMPANY.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:14:01.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TRANSACTION.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\TRANSACTION.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\TRANSACTION.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\TRANSACTION.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\TRANSACTION.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T05:41:03.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FINAL.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\FINAL.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\FINAL.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\FINAL.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\FINAL.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-12T10:40:24.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FINAL.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\FINAL.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\FINAL.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\FINAL.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\FINAL.vb",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAcwBgBAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-12T10:40:28.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SALARY EDIT.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SALARY EDIT.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\SALARY EDIT.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SALARY EDIT.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\SALARY EDIT.vb",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAcwHgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:13:11.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TRANS.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\TRANS.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\TRANS.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\TRANS.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\TRANS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T05:55:13.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TRANS.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\TRANS.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\TRANS.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\TRANS.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\TRANS.vb",
+              "ViewState": "AQIAAIcBAAAAAAAAAAAcwKkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T06:09:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SALARY EDIT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SALARY EDIT.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\SALARY EDIT.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SALARY EDIT.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\SALARY EDIT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:13:09.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PARAMETER.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\PARAMETER.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\PARAMETER.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\PARAMETER.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\PARAMETER.vb",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAcwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:12:08.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PARAMETER.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\PARAMETER.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\PARAMETER.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\PARAMETER.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\PARAMETER.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:12:06.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SEARCH.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SEARCH.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\SEARCH.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SEARCH.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\SEARCH.vb",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAcwKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:11:02.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SEARCH.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SEARCH.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\SEARCH.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SEARCH.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\SEARCH.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:11:01.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SHOW.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SHOW.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\SHOW.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SHOW.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\SHOW.vb",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwGgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:09:20.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SHOW.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SHOW.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\SHOW.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SHOW.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\SHOW.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:09:18.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SAL.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SAL.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\SAL.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SAL.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\SAL.vb",
+              "ViewState": "AQIAADsAAAAAAAAAAAAcwEUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:08:38.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SAL.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SAL.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\SAL.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\SAL.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\SAL.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:08:36.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ADD.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\ADD.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\ADD.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\ADD.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\ADD.vb",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwKYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:07:28.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ADD.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\ADD.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\ADD.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\ADD.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\ADD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:07:26.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HOME.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\HOME.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\HOME.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\HOME.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\HOME.vb",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA0wGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:07:04.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HOME.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\HOME.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\HOME.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\HOME.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\HOME.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:07:03.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\Form1.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\Form1.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\Form1.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\Form1.vb",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:04:43.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\Form1.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\Form1.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\Form1.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-09T07:02:08.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LOGIN.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\LOGIN.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\LOGIN.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\LOGIN.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\LOGIN.vb",
+              "ViewState": "AQIAACsAAAAAAAAAAAA0wEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T10:53:37.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LOGIN.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\LOGIN.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\LOGIN.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\LOGIN.vb [Design]",
+              "RelativeToolTip": "PAYROLLSYSTEM\\LOGIN.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-08T10:53:26.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TRANSACTION.vb",
+              "DocumentMoniker": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\TRANSACTION.vb",
+              "RelativeDocumentMoniker": "PAYROLLSYSTEM\\TRANSACTION.vb",
+              "ToolTip": "C:\\Users\\edp\\source\\repos\\PAYROLLSYSTEM\\PAYROLLSYSTEM\\TRANSACTION.vb",
+              "RelativeToolTip": "PAYROLLSYSTEM\\TRANSACTION.vb",
+              "ViewState": "AQIAANQAAAAAAAAAAAAuwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T05:41:06.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

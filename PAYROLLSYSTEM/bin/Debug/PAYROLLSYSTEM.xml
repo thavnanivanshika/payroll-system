@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PAYROLLSYSTEM
+</name>
+</assembly>
+<members>
+<member name="T:PAYROLLSYSTEM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources._2020_YIR_07_Comp_Ben_SMALL2_owrgqc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources._2020_YIR_07_Comp_Ben_SMALL2_owrgqc1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources._360_F_213135017_xwyDAXk4dFZTvNJm7x8vkQtGVUylEa92">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources._360_F_213135017_xwyDAXk4dFZTvNJm7x8vkQtGVUylEa921">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources._4d293076ce87b79dcc048f8568e6a076_t">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources._8746d4e5384dff2ee725e708160d61e9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.AA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.Corporate_Training">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.Corporate_Training1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.image_processing20191210_26409_19s5nxv">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images__2_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images__4_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.istockphoto_1414633014_612x612">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.istockphoto_1414633014_612x6121">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.learngit_teaser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.Payroll_Management">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PAYROLLSYSTEM.My.Resources.Resources.website_design_rwd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

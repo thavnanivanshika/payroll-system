@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D1A36496-71EB-4299-955A-CEC7D40DCBB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PAYROLLSYSTEM.My.MyApplication</StartupObject>
+    <RootNamespace>PAYROLLSYSTEM</RootNamespace>
+    <AssemblyName>PAYROLLSYSTEM</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PAYROLLSYSTEM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PAYROLLSYSTEM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADD.Designer.vb">
+      <DependentUpon>ADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPANY.Designer.vb">
+      <DependentUpon>COMPANY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COMPANY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FINAL.Designer.vb">
+      <DependentUpon>FINAL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FINAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOME.Designer.vb">
+      <DependentUpon>HOME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HOME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LEARN.Designer.vb">
+      <DependentUpon>LEARN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LEARN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.vb">
+      <DependentUpon>LOGIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PARAMETER.Designer.vb">
+      <DependentUpon>PARAMETER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PARAMETER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORT.Designer.vb">
+      <DependentUpon>REPORT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAL.Designer.vb">
+      <DependentUpon>SAL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SALARY EDIT.Designer.vb">
+      <DependentUpon>SALARY EDIT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SALARY EDIT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEARCH.Designer.vb">
+      <DependentUpon>SEARCH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SEARCH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SHOW.Designer.vb">
+      <DependentUpon>SHOW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SHOW.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TRANS.Designer.vb">
+      <DependentUpon>TRANS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TRANS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TRANSACTION.Designer.vb">
+      <DependentUpon>TRANSACTION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TRANSACTION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ADD.resx">
+      <DependentUpon>ADD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPANY.resx">
+      <DependentUpon>COMPANY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FINAL.resx">
+      <DependentUpon>FINAL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HOME.resx">
+      <DependentUpon>HOME.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LEARN.resx">
+      <DependentUpon>LEARN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PARAMETER.resx">
+      <DependentUpon>PARAMETER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORT.resx">
+      <DependentUpon>REPORT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAL.resx">
+      <DependentUpon>SAL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SALARY EDIT.resx">
+      <DependentUpon>SALARY EDIT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SEARCH.resx">
+      <DependentUpon>SEARCH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SHOW.resx">
+      <DependentUpon>SHOW.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TRANS.resx">
+      <DependentUpon>TRANS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TRANSACTION.resx">
+      <DependentUpon>TRANSACTION.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\website-design-rwd.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_processing20191210-26409-19s5nxv.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Payroll-Management.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\learngit-teaser.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4d293076ce87b79dcc048f8568e6a076_t.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2020-YIR-07-Comp-Ben-SMALL2_owrgqc.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2020-YIR-07-Comp-Ben-SMALL2_owrgqc1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_213135017_xwyDAXk4dFZTvNJm7x8vkQtGVUylEa92.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1414633014-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_213135017_xwyDAXk4dFZTvNJm7x8vkQtGVUylEa921.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8746d4e5384dff2ee725e708160d61e9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AA.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Corporate-Training.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Corporate-Training1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1414633014-612x6121.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
